@@ -10,7 +10,6 @@ const icons = {
 	'Fog':	'wi-fog',
 	'Light snow':	'wi-snow',
 	'Overcast':	'wi-cloudy',
-	'Overcast':	'wi-day-sunny-overcast',
 	'na':	'wi-na'
 }
 
